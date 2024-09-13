@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "django"
-version = "5.1.1"
-description = "NA"
+name = "stock-tracker"
+version = "0.1.0"
+description = ""
 authors = ["Priyanshu Tripathi <priyanshu.tripathi@volkswagen.co.in>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-celery = "^5.4.0"
+django = "^5.1.1"
 
 
 [build-system]
