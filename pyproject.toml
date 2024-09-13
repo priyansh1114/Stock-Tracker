@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "django"
+version = "5.1.1"
+description = "NA"
+authors = ["Priyanshu Tripathi <priyanshu.tripathi@volkswagen.co.in>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+celery = "^5.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

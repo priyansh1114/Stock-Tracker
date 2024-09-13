@@ -1,0 +1,22 @@
+
+# Virtual environment
+venv/
+env/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.suo
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
